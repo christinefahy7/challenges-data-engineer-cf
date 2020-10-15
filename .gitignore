@@ -1,4 +1,4 @@
 .idea
-./challenge/*.aux
-./challenge/*.log
-./challenge/*.out
+./**/*.aux
+./**/*.log
+./**/*.out
