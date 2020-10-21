@@ -10,12 +10,10 @@ Please make sure to include a README and any information you might think it's re
 
 ---
 
-The team is looking for the following: 
+A couple of topics that we expect to explore and review would be:
 
 - Approach Taken
 - Architecture
 - Code structure and clarity
 - Performance
 - Testing
-
-Please, include a readme file if there is setup required for your code to run, or if there is something you would like to comment on.
